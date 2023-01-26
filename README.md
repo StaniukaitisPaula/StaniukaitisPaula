@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá eu sou a Paula Blesa 🤍
 
 <!--
 **StaniukaitisPaula/StaniukaitisPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
