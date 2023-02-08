@@ -11,8 +11,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StaniukaitisPaula&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=7B68EE&text_color=7B68EE&bg_color=E6E6FA" alt="Paula´s github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaniukaitisPaula&layout=compact&hide_border=true&title_color=836FFF&text_color=6A5ACD&bg_color=E6E6FA" />
-</div>
+ 
 
 ### Main Skills
 <div style="display: inline_block"><br>
