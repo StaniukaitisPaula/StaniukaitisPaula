@@ -42,12 +42,7 @@
   
   ##
   
-  <div align="center">
 
-  ![Snake animation](https://github.com/StaniukaitisPaula/StaniukaitisPaula/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-</div>
 
 </div>
 
