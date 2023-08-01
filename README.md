@@ -36,3 +36,10 @@
 
   
 </div>
+
+
+<div align="center" >
+  <a href="https://github.com/StaniukaitisPaula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StaniukaitisPaula&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaniukaitisPaula&layout=compact&langs_count=7&theme=radical"/>
+</div>
