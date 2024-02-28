@@ -1,6 +1,6 @@
 ### Bem-vindo!🦋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=OIIIEE+bem-vindo(a)+ao+meu+perfil!+👋;Me+chamo+Paula+Blesa;E+estou+cursando+o+3º+semestre+de;Desenvolvimento+de+Sistemas+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=OIIIEE+bem-vindo(a)+ao+meu+perfil!+👋;Me+chamo+Paula+Blesa;E+estou+cursando+;Desenvolvimento+de+Sistemas+:%29)](https://git.io/typing-svg)
 
 
 ### Main Skills
@@ -10,7 +10,7 @@
 
 ### Learning
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,theme=dark" />
   </a>
 
 
@@ -37,6 +37,5 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/viniciusnunes137/viniciusnunes137/blob/output/github-contribution-grid-snake.svg)
 
 </div>
