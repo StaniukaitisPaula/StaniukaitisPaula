@@ -15,27 +15,19 @@
 
 
   ##
-<div align="center"> 
-  <a href="mailto:paulablesa6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email&theme=dark" />
+<div align="center">
+  <a href="https://github.com/StaniukaitisPaula">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniukaitisPaula&theme=react&hide_border=false&exclude_days=Sun&locale=pt_BR" />
   </a>
 </div>
+<br>
 <div align="center">
-  
-
-  
-</div>
-
-
-<div align="center" >
   <a href="https://github.com/StaniukaitisPaula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StaniukaitisPaula&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaniukaitisPaula&layout=compact&langs_count=7&theme=radical"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=react" />
+  </a>
+  <a href="https://github.com/StaniukaitisPaula">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=react" />
+  </a>
 </div>
-
-
-
-<div align="center">
-
 
 </div>
