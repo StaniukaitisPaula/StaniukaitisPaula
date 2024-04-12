@@ -1,6 +1,6 @@
 ### Bem-vindo!🦋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=OIIIEE+bem-vindo(a)+ao+meu+perfil!+👋;Me+chamo+Paula+Blesa;E+estou+cursando+;Desenvolvimento+de+Sistemas+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=OIIIEE+bem-vindo(a)+ao+meu+perfil!+👋;Me+chamo+Paula+Blesa;Sou+Desenvolvedora+de+Sistemas+:%29)](https://git.io/typing-svg)
 
 
 ### Main Skills
