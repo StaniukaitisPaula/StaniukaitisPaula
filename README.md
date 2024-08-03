@@ -16,9 +16,7 @@
 
   ##
 <div align="center">
-  <a href="https://github.com/StaniukaitisPaula">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniukaitisPaula&theme=react&hide_border=false&exclude_days=Sun&locale=pt_BR" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=StaniukaitisPaula&theme=dracula&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 <br>
 <div align="center">
