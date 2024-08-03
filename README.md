@@ -5,12 +5,12 @@
 
 ### Main Skills
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,java,azure,linux,git,github,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,java,azure,linux,git,github,postman,kotlin,mysql,nodejs,express,prisma,js,ts&theme=dark" />
   </a>
 
 ### Learning
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,react,tailwindtheme=dark" />
   </a>
 
 
@@ -21,10 +21,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/StaniukaitisPaula">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=react" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StaniukaitisPaula&theme=dracula" />
   </a>
   <a href="https://github.com/StaniukaitisPaula">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=react" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StaniukaitisPaula&theme=dracula" />
   </a>
 </div>
 
